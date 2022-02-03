@@ -7,7 +7,7 @@
   <a href="https://beacons.ai/telesolvr" target="_blank">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=telesolvr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telesolvr&layout=compact&langs_count=7&theme=radical"/>
-  <img align="right" alt="Teles-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/792912408812847125/938810112770994176/teles1.png">
+  <img align="right" alt="Teles-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/792912408812847125/938810112770994176/teles1.png">
 </div>
 
   ##
